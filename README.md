@@ -17,13 +17,12 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ========================================
 
-###The dataset includes the following files and folder:
+###The dataset includes the following files:
 - 'README.md'
 - 'CODEBOOK.md'
 - 'run_analysis.R'
 * 'data_second.txt'
 - 'data.txt'
-- 'UCI HAR Dataset'
 
 ========================================
 
