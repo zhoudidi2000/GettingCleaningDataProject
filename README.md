@@ -12,7 +12,8 @@
 4. Discriptive variable names are appropriately labeled according to feature.txt file.
 5. Finally, the average of each variable for each activity and each subject was reorgnized to created the data_second.txt file.
 
-For more detailed information about original data, please look at 'UCI HAR Dataset' folder.
+For more detailed information about original data, please look at 'UCI HAR Dataset' folder from:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 ========================================
 
