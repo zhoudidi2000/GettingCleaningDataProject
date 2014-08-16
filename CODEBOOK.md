@@ -2,7 +2,7 @@
 This tidy dataset has 81 variables.
 
 - 1. subject, means identifier who carried out the experiment, 30 total.
-- 2~80. meansurements, only mean and standard deviation(std) are extracted. Xn matches with variable name in full data.txt. Detailed information please see feature_info.txt.
+- 2~80. meansurements, only mean and standard deviation(std) are extracted. Xn matches with the variable name number in full data.txt. Detailed information please see feature_info.txt.
 - 81. activity, 6 levels
        * Walking
        * Walking_upstairs
