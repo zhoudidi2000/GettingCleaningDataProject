@@ -39,18 +39,7 @@ activity<-gsub(pattern="4", replacement="Sitting", activity)
 activity<-gsub(pattern="5", replacement="Standing", activity)
 activity<-gsub(pattern="6", replacement="Laying", activity)
 data_second<-cbind(data_second[,-1],activity)
+
+# save the data. optionally, write.csv((data_second, file = "./UCI HAR Dataset/data_second.csv")
 write.table(data_second, file = "./UCI HAR Dataset/data_second.txt")
-print(data_second)
-
-
-
-
-
-
-
-
-
-
-
-
 
