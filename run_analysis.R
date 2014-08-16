@@ -41,5 +41,5 @@ activity<-gsub(pattern="6", replacement="Laying", activity)
 data_second<-cbind(data_second[,-1],activity)
 
 # save the data. optionally, write.csv((data_second, file = "./UCI HAR Dataset/data_second.csv")
-write.table(data_second, file = "./UCI HAR Dataset/data_second.txt")
+write.table(data_second, file = "./UCI HAR Dataset/data_second.txt", row.name = FALSE)
 
