@@ -1,6 +1,5 @@
 
-#### Human Activity Recognition Using Smartphones Dataset Version 1.0
-##subsetted and reorgnized dataset----data_second :computer:
+## Getting and Cleaning Data Course Project :computer:
 
 ========================================
 
